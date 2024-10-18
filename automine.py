@@ -95,6 +95,7 @@ def main():
                 break
             elif test_pixel(colorenabled, btfacsunlock):
                 wait_click(1, btfacsunlock)
+                wait_click(1, btfacs, ifac)
             wait_click(5, btmng)
             wait_click(1, btmngleft)
             if test_pixel(colorenabled, btfacup):
