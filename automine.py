@@ -78,7 +78,7 @@ def main():
     btmngleft = [wincx-110, wincy-130]
     btmngright = [wincx+120, wincy-130]
     btfacup = [wincx+36, wincy+160]
-    btrobots = [wincx-179, wincy-58, 56, 76, 8, 24]
+    btrobots = [wincx-179, wincy-72, 56, 76, 8, 24]
     btrobotup = [wincx+46, wincy+26]
     btrobotclose = [wincx+122, wincy-80]
 
