@@ -68,7 +68,7 @@ def main():
 
     # posx, posy, diffx, diffy, cntx, total
     btcollect = [wincx+264, wincy+164, ]
-    btfacs = [wincx-234, wincy-120, 120, 180, 5, 10]
+    btfacs = [wincx-234, wincy-152, 120, 180, 5, 10]
     btfacsclose = [wincx+120, wincy-116]
     btfacsunlock = [wincx+38, wincy+66]
     btmap = [wincx+78, wincy+150]
@@ -82,7 +82,7 @@ def main():
     btrobotup = [wincx+46, wincy+26]
     btrobotclose = [wincx+122, wincy-80]
 
-    colorenabled = [(6, 153, 184), (9, 159, 194)]
+    colorenabled = [(6, 153, 184), (9, 159, 194), (8, 217, 255)]
     colordisabled = [(93, 94, 98), (96, 99, 107)]
     colornorobot = [(6, 153, 180), (7, 154, 183)]
 
